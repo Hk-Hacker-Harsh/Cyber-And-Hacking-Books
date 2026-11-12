@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://c.tenor.com/dIqfDMA9K2sAAAAd/tenor.gif" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=%F0%9F%93%9A+Books+for+every+hacker;%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking;%E2%AD%90+Star+the+repo+if+you+like+it!" alt="typing animation"/>
 
 <br/>
 
@@ -9,7 +9,7 @@
 ![Purpose](https://img.shields.io/badge/Purpose-Educational-orange?style=for-the-badge)
 
 <!-- 🐱 PASTE YOUR CUTE CARTOON GIF LINK BELOW (replace YOUR_GIF_LINK) -->
-<img src="YOUR_GIF_LINK" width="250" alt="cute cartoon reading a book"/>
+<img src="https://c.tenor.com/dIqfDMA9K2sAAAAd/tenor.gif" width="250" alt="cute cartoon reading a book"/>
 
 ### 📚 Read. Learn. Share. 📚
 
