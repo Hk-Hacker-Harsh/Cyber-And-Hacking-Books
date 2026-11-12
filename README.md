@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Cyber%20%26%20Hacking%20Books&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Learn%20%E2%80%A2%20Read%20%E2%80%A2%20Hack%20Ethically&descSize=18" alt="banner"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=%F0%9F%93%9A+Books+for+every+hacker;%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking;%E2%AD%90+Star+the+repo+if+you+like+it!" alt="typing animation"/>
 
 <br/>
@@ -55,14 +53,6 @@ git clone https://github.com/Hk-Hacker-Harsh/Cyber-And-Hacking-Books.git
 - For **educational purposes only**.
 - Test only systems you own or have written permission to test.
 - All books belong to their respective authors and publishers. Rights holders can contact me to request removal.
-
----
-
-## 📑 Index
-
-> Click a folder to expand it, then click a book to open it.
-
-<!-- PASTE THE SCRIPT OUTPUT HERE -->
 
 ---
 
