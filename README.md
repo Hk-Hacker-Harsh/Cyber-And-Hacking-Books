@@ -1,63 +1,75 @@
-# 📚 Cyber & Hacking Books
+<div align="center">
 
-A collection of books and study material on cybersecurity, ethical hacking, penetration testing, and related topics, for learners and security enthusiasts.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Cyber%20%26%20Hacking%20Books&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Learn%20%E2%80%A2%20Read%20%E2%80%A2%20Hack%20Ethically&descSize=18" alt="banner"/>
 
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
-![Books](https://img.shields.io/badge/books-many-blue)
-![Purpose](https://img.shields.io/badge/purpose-educational-orange)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=%F0%9F%93%9A+Books+for+every+hacker;%F0%9F%94%90+Cybersecurity+%26+Ethical+Hacking;%E2%AD%90+Star+the+repo+if+you+like+it!" alt="typing animation"/>
+
+<br/>
+
+![Stars](https://img.shields.io/github/stars/Hk-Hacker-Harsh/Cyber-And-Hacking-Books?style=for-the-badge&logo=github&color=yellow)
+![Forks](https://img.shields.io/github/forks/Hk-Hacker-Harsh/Cyber-And-Hacking-Books?style=for-the-badge&logo=git&color=blue)
+![Purpose](https://img.shields.io/badge/Purpose-Educational-orange?style=for-the-badge)
+
+<!-- 🐱 PASTE YOUR CUTE CARTOON GIF LINK BELOW (replace YOUR_GIF_LINK) -->
+<img src="YOUR_GIF_LINK" width="250" alt="cute cartoon reading a book"/>
+
+### 📚 Read. Learn. Share. 📚
+
+</div>
+
+---
+
+## 💖 Support & Contribute
+
+<div align="center">
+
+| ⭐ Like this repo? | 📄 Have a book to add? | 🐛 Found a problem? |
+|:---:|:---:|:---:|
+| [**Give it a Star**](https://github.com/Hk-Hacker-Harsh/Cyber-And-Hacking-Books) | [**Add your PDF**](https://github.com/Hk-Hacker-Harsh/Cyber-And-Hacking-Books/fork) | [**Open an Issue**](https://github.com/Hk-Hacker-Harsh/Cyber-And-Hacking-Books/issues/new) |
+
+</div>
+
+**How to add your PDF:** Fork the repo → put your file in the right folder → open a Pull Request. Thank you! 🙏
+
+---
 
 ## 📖 About
 
-This repository gathers resources to help you learn cybersecurity from the basics to advanced topics. Whether you're preparing for a certification, starting bug bounty, or exploring security as a career, you'll find something useful here.
-
-## 🗂️ Contents
-
-| Category | Description |
-|---|---|
-| Ethical Hacking | Fundamentals and methodology |
-| Penetration Testing | Network, web, and system testing |
-| Web Application Security | OWASP, bug bounty, web exploits |
-| Networking | Protocols, TCP/IP, network security |
-| Linux & Kali | Command line, tools, scripting |
-| Programming | Python, C, Bash for security |
-| Malware & Reverse Engineering | Analysis and defense |
-| Cryptography | Core concepts and applications |
-| Certifications | CEH, OSCP, Security+, etc. |
-
-> 🔧 Replace this table with the actual folders in the repo.
-
-## 🚀 How to Use
-
-1. Browse the folders above and open the topic you want.
-2. Download a single file, or clone the whole repo:
-   ```bash
-   git clone https://github.com/Hk-Hacker-Harsh/Cyber-And-Hacking-Books.git
-   ```
-3. Start with the beginner material before moving to advanced topics.
+A collection of books on cybersecurity, ethical hacking, penetration testing, and more, for learners and security enthusiasts. Use the **[📑 Index](#-index)** at the bottom to jump straight to any file.
 
 ## 🧭 Suggested Learning Path
 
-1. **Foundations:** networking, Linux, basic programming
-2. **Core security:** ethical hacking, cryptography
-3. **Specialization:** web, network, mobile, malware
-4. **Practice:** CTFs, labs, bug bounty platforms
+1. 🌐 **Foundations:** networking, Linux, basic programming
+2. 🔐 **Core security:** ethical hacking, cryptography
+3. 🎯 **Specialize:** web, network, mobile, malware
+4. 🏆 **Practice:** CTFs, labs, bug bounty
+
+## 🚀 Clone
+
+```bash
+git clone https://github.com/Hk-Hacker-Harsh/Cyber-And-Hacking-Books.git
+```
 
 ## ⚠️ Disclaimer
 
-- All material is for **educational purposes only**.
-- Use these skills only on systems you own or have explicit written permission to test.
-- The author is not responsible for misuse of this information.
-- All books belong to their respective authors and publishers. If you are a rights holder and want something removed, please open an issue or contact me and it will be taken down promptly.
+- For **educational purposes only**.
+- Test only systems you own or have written permission to test.
+- All books belong to their respective authors and publishers. Rights holders can contact me to request removal.
 
-## 🤝 Contributing
+---
 
-Suggestions are welcome:
-1. Fork the repo
-2. Add your resource in the right folder
-3. Open a pull request
+## 📑 Index
 
-## 📬 Contact
+> Click a folder to expand it, then click a book to open it.
 
-**Harsh** — [GitHub: @Hk-Hacker-Harsh](https://github.com/Hk-Hacker-Harsh)
+<!-- PASTE THE SCRIPT OUTPUT HERE -->
 
-If this helped you, give the repo a ⭐!
+---
+
+<div align="center">
+
+Made with ❤️ by [**Harsh**](https://github.com/Hk-Hacker-Harsh) • If this helped you, drop a ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer"/>
+
+</div>
